@@ -72,7 +72,7 @@ It helps businesses make data-driven decisions through visual insights and KPI t
 
 ## 📂 Files Included
 - `Amazon_Sales_Dashboard.pbix`
-- `dataset.csv`
+- `amazon_sales.xlsx`
 - `README.md`
 
 ---
